@@ -3,6 +3,6 @@
 
 <?php
 
-echo "hello<br>world sajib"
+echo "hello<br>world sajib";
 
 ?>
