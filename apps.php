@@ -1,5 +1,5 @@
 <?php
 
-echo "hello vai"
+echo "hello vai tnx"
 
 ?>
